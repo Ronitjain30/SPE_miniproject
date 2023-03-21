@@ -9,7 +9,7 @@ public class Calc {
 
     public Calc(){
 
-    }
+    } 
 
     public static void main(String[] args) {
         Calc calculator = new Calc();
