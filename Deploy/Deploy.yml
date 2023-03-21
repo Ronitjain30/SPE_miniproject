@@ -4,5 +4,5 @@
   tasks:
     - name: Pull calc devops image
       docker_image:
-        name: sounakdey/devopscalc
+        name: ronitjain/devopscalc
         source: pull
