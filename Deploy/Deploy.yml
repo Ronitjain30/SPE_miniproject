@@ -1,8 +1,0 @@
----
-- name: Pull docker image
-  hosts: all
-  tasks:
-    - name: Pull calc devops image
-      docker_image:
-        name: ronitjain/devopscalc
-        source: pull
